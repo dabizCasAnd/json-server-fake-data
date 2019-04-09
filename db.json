@@ -17,6 +17,12 @@
       { "id": 2, "title": "lorem ipsum"}, 
       { "id": 3, "title": "lorem ipsum"},
       { "id": 4, "title": "lorem ipsum"}
+    ] },
+    { "id": 4, "title": "Post 3", "responses": [ 
+      { "id": 1, "title": "lorem ipsum"}, 
+      { "id": 2, "title": "lorem ipsum"}, 
+      { "id": 3, "title": "lorem ipsum"},
+      { "id": 4, "title": "lorem ipsum"}
     ] }
   ]
 }
