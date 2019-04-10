@@ -1,4 +1,8 @@
 {
+  "userProgress": { 
+    "videos": 2, 
+    "units": { 'unit1': 3, 'unit2': 2, 'unit3': 0, 'unit4': 0, 'unit5': 0 } 
+  },
   "questions": [
     { "id": 1, "title": "¿Cuál de los siguientes gastos no tendrá un impacto en el resultado de explotación?", "responses": [ 
       { "id": 1, "title": "Coste de las mercaderías vendidas"}, 
@@ -31,6 +35,18 @@
       { "id": 4, "title": "lorem ipsum"}
     ] },
     { "id": 6, "title": "En este ejercicio contable ABC SA tuvo unos ingresos de 100.000 Euros y unos gastos de explotación de 40.000 Euros. Además, la emisión de acciones generó un incremento de capital de 20.000 Euros y la empresa distribuyó un dividendo de 10.000. Por último, sabemos que ABC cobró 20.000 Euros de las cuentas a pagar por sus clientes. El cambio en patrimonio neto es igual a", "responses": [ 
+      { "id": 1, "title": "lorem ipsum"}, 
+      { "id": 2, "title": "lorem ipsum"}, 
+      { "id": 3, "title": "lorem ipsum"},
+      { "id": 4, "title": "lorem ipsum"}
+    ] },
+    { "id": 7, "title": "En este ejercicio contable ABC SA tuvo unos ingresos de 100.000 Euros y unos gastos de explotación de 40.000 Euros. Además, la emisión de acciones generó un incremento de capital de 20.000 Euros y la empresa distribuyó un dividendo de 10.000. Por último, sabemos que ABC cobró 20.000 Euros de las cuentas a pagar por sus clientes. El cambio en patrimonio neto es igual a", "responses": [ 
+      { "id": 1, "title": "lorem ipsum"}, 
+      { "id": 2, "title": "lorem ipsum"}, 
+      { "id": 3, "title": "lorem ipsum"},
+      { "id": 4, "title": "lorem ipsum"}
+    ] },
+    { "id": 8, "title": "En este ejercicio contable ABC SA tuvo unos ingresos de 100.000 Euros y unos gastos de explotación de 40.000 Euros. Además, la emisión de acciones generó un incremento de capital de 20.000 Euros y la empresa distribuyó un dividendo de 10.000. Por último, sabemos que ABC cobró 20.000 Euros de las cuentas a pagar por sus clientes. El cambio en patrimonio neto es igual a", "responses": [ 
       { "id": 1, "title": "lorem ipsum"}, 
       { "id": 2, "title": "lorem ipsum"}, 
       { "id": 3, "title": "lorem ipsum"},
