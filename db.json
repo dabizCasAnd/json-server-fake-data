@@ -152,36 +152,6 @@
       { "id": 2, "title": "lorem ipsum"}, 
       { "id": 3, "title": "lorem ipsum"},
       { "id": 4, "title": "lorem ipsum"}
-    ] },
-    { "id": 21, "title": "Las siguientes cuentas representan activos no corrientes excepto", "responses": [ 
-      { "id": 1, "title": "lorem ipsum"}, 
-      { "id": 2, "title": "lorem ipsum"}, 
-      { "id": 3, "title": "lorem ipsum"},
-      { "id": 4, "title": "lorem ipsum"}
-    ] },
-    { "id": 22, "title": "Las siguientes cuentas representan activos no corrientes excepto", "responses": [ 
-      { "id": 1, "title": "lorem ipsum"}, 
-      { "id": 2, "title": "lorem ipsum"}, 
-      { "id": 3, "title": "lorem ipsum"},
-      { "id": 4, "title": "lorem ipsum"}
-    ] },
-    { "id": 23, "title": "Las siguientes cuentas representan activos no corrientes excepto", "responses": [ 
-      { "id": 1, "title": "lorem ipsum"}, 
-      { "id": 2, "title": "lorem ipsum"}, 
-      { "id": 3, "title": "lorem ipsum"},
-      { "id": 4, "title": "lorem ipsum"}
-    ] },
-    { "id": 24, "title": "Las siguientes cuentas representan activos no corrientes excepto", "responses": [ 
-      { "id": 1, "title": "lorem ipsum"}, 
-      { "id": 2, "title": "lorem ipsum"}, 
-      { "id": 3, "title": "lorem ipsum"},
-      { "id": 4, "title": "lorem ipsum"}
-    ] },
-    { "id": 25, "title": "Las siguientes cuentas representan activos no corrientes excepto", "responses": [ 
-      { "id": 1, "title": "lorem ipsum"}, 
-      { "id": 2, "title": "lorem ipsum"}, 
-      { "id": 3, "title": "lorem ipsum"},
-      { "id": 4, "title": "lorem ipsum"}
     ] }
   ]
 }
