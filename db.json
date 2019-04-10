@@ -29,33 +29,6 @@
         {"id": 1, "order": [1,2,3,4], "response": 1},
         {"id": 1, "order": [1,2,3,4], "response": 1},
         {"id": 1, "order": [1,2,3,4], "response": 1}
-      ], "created": "2/5/2018 10:42", "updated": "2/5/2018 10:59"},
-      {"result": [ 
-        {"id": 1, "order": [1,2,3,4], "response": 1}, 
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1},
-        {"id": 1, "order": [1,2,3,4], "response": 1}
       ], "created": "2/5/2018 10:42", "updated": "2/5/2018 10:59"}
     ]
   },
