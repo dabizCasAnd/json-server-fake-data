@@ -3,9 +3,7 @@
       "data": {
         "videos": [0,1,0,0,0], 
         "units": { "unit1": 3, "unit2": 2, "unit3": 0, "unit4": 0, "unit5": 0 },
-        "tests": [
-          {"result": [], "created": "", "updated": "", "finished": ""}
-        ]
+        "tests": []
       }
     },
     "questions": {
