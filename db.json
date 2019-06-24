@@ -3,7 +3,14 @@
       "data": {
         "videos": [0,1,0,0,0], 
         "units": { "unit1": 3, "unit2": 2, "unit3": 0, "unit4": 0, "unit5": 0 },
-        "tests": []
+        "tests": [
+            {"result": [
+            {"id": 1, "order": [1,2,3,4], "response": 1}, 
+            {"id": 2, "order": [1,2,3,4], "response": 1},
+            {"id": 3, "order": [1,2,3,4], "response": 1},
+            {"id": 4, "order": [1,2,3,4], "response": 1}
+          ], "created": "2019-06-24 10:53:24.121389", "updated": "2019-06-24 10:53:24.121389", "finished": "25/25"}
+        ]
       }
     },
     "questions": {
