@@ -23,7 +23,7 @@
       }
     },
     "questions": {
-      "created": { "date": "2019-06-19 08:25:34.451776" },
+      "created": { "date": "2019-06-19 08:25:34" },
       "categories" : ["1","2","3","4","5"],
       "data":[
           {"id":4,"question":"{\"categories\": \"1\", \"en\": \"If assets increased by &euro;40,000 and liabilities decreased by &euro;8,000, stockholders&rsquo; equity must have\", \"es\": \"En marzo los activos se incrementaron en 40.000 Euros y el pasivo se redujo en 8.000 Euros. La variaci\u00f3n en el patrimonio neto debe ser igual a\"}","answers":"{\"en\": [{\"id\": 0, \"text\": \"To provide information for tax authorities.\"}, {\"id\": 1, \"text\": \"To provide information useful for making credit and investment decisions.\"}, {\"id\": 2, \"text\": \"To provide information about the profitability of the company.\"}, {\"id\": 3, \"text\": \"To provide information about the cash flows of the company.\"}], \"es\": [{\"id\": 0, \"text\": \"Proporcionar informaci\u00f3n a la Agencia Tributaria sobre la situaci\u00f3n financiera de la empresa.\"}, {\"id\": 1, \"text\": \"Proporcionar informaci&oacute;n &uacute;til para la toma de decisiones econ&oacute;micas.\"}, {\"id\": 2, \"text\": \"Proporcionar informaci&oacute;n sobre la rentabilidad de la empresa.\"}, {\"id\": 3, \"text\": \"Proporcionar informaci&oacute;n sobre los flujos de efectivo de la empresa.\"}]}"},
