@@ -11,6 +11,7 @@
                 {"id": 4, "order": [1,2,3,4], "response": 1}], 
             "created": "2019-06-24 10:53:24", 
             "updated": "2019-06-24 10:53:24", 
+            "finished": true,
             "score": 25,
             "categories":[  
                 { "item":"1", "wrong":0 },
