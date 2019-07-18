@@ -2,13 +2,68 @@
     "userProgress": { 
       "data": {
         "videos": [0,1,0,0,0], 
-        "units": { 
-            "unit1": [1,1,[1],0,0],
-            "unit2": [0,[0,1,0,0],0,1,1],
-            "unit3": [1,[0],0,[0,0,0,0,0,0,0],0],
-            "unit4": [0,0],
-            "unit5": [0,0,0,0,1]
-        },
+        "units": [
+            {
+              "done": 0, 
+              "units" : [
+                  { "done": 0 },
+                  { "done": 0, "units": [
+                      { "done": 0 }
+                  ] },
+                  { "done": 0 },
+                  { "done": 0 }
+              ]
+            },
+            {
+                "done": 0, 
+                "units" : [
+                    { "done": 0, "units": [
+                        { "done": 0 },
+                        { "done": 0 },
+                        { "done": 0 },
+                        { "done": 0 }
+                    ] },
+                    { "done": 0 },
+                    { "done": 0 },
+                    { "done": 0 }
+                ]
+            },
+            {
+                "done": 0, 
+                "units" : [
+                    { "done": 0, "units": [
+                        { "done": 0 }
+                    ] },
+                    { "done": 0, "units": [
+                        { "done": 0 },
+                        { "done": 0 },
+                        { "done": 0 },
+                        { "done": 0 },
+                        { "done": 0 },
+                        { "done": 0 },
+                        { "done": 0 }
+                    ] },
+                    { "done": 0 }
+                ]
+            },
+            {
+                "done": 0, 
+                "units" : [
+                    { "done": 0 },
+                    { "done": 0 }
+                ]
+            },
+            {
+                "done": 0, 
+                "units" : [
+                    { "done": 0 },
+                    { "done": 0 },
+                    { "done": 0 },
+                    { "done": 0 },
+                    { "done": 0 }
+                ]
+            }
+        ],
         "tests": [{
             "result": [
                 {"id": 1, "order": [1,2,3,4], "response": 1}, 
