@@ -1,85 +1,16 @@
 {
     "userProgress": { 
-      "data": {
-        "videos": [0,1,0,0,0], 
-        "units": [
-            {
-              "units" : [
-                  { "done": 1 },
-                  { "done": 1, "units": [
-                      { "done": 0 }
-                  ] },
-                  { "done": 1 },
-                  { "done": 0 }
-              ]
-            },
-            {
-                "units" : [
-                    { "done": 1, "units": [
-                        { "done": 1 },
-                        { "done": 0 },
-                        { "done": 0 },
-                        { "done": 0 }
-                    ] },
-                    { "done": 1 },
-                    { "done": 0 },
-                    { "done": 0 }
-                ]
-            },
-            {
-                "units" : [
-                    { "done": 0, "units": [
-                        { "done": 0 }
-                    ] },
-                    { "done": 0, "units": [
-                        { "done": 0 },
-                        { "done": 0 },
-                        { "done": 0 },
-                        { "done": 0 },
-                        { "done": 0 },
-                        { "done": 0 },
-                        { "done": 0 }
-                    ] },
-                    { "done": 0 }
-                ]
-            },
-            {
-                "units" : [
-                    { "done": 0 },
-                    { "done": 0 }
-                ]
-            },
-            {
-                "units" : [
-                    { "done": 0 },
-                    { "done": 0 },
-                    { "done": 0 },
-                    { "done": 0 },
-                    { "done": 0 }
-                ]
-            }
-        ],
-        "tests": [{
-            "result": [
-                {"id": 1, "order": [1,2,3,0], "response": 1}, 
-                {"id": 2, "order": [1,2,3,0], "response": 1},
-                {"id": 3, "order": [1,2,3,0], "response": 1},
-                {"id": 4, "order": [1,2,3,0], "response": 1}, 
-                {"id": 6, "order": [1,2,3,0], "response": 1},
-                {"id": 5, "order": [2,2,1,0], "response": 1}],
+        "currentLevel": 0,
+        "levels": [{
+            "id": 0,
+            "time": 250,
+            "score": 25,
             "created": "2019-06-24 10:53:24", 
             "updated": "2019-06-24 10:53:24", 
             "finished": true,
-            "score": 25,
-            "categories":[  
-                { "item":"1", "wrong":0 },
-                { "item":"2", "wrong":1 },
-                { "item":"3", "wrong":1 },
-                { "item":"4", "wrong":2 },
-                { "item":"5", "wrong":0 }]
+            "FinishedQuestions":[0,1]
           }
         ]
-      }
     },
     "questions": {
       "created": { "date": "2019-06-19 08:25:34" },
