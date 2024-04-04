@@ -1,5 +1,6 @@
 {
     "userProgress": { 
+        "nickname": "",
         "currentLevel": 0,
         "levels": [{
             "id": 0,
