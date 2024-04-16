@@ -5,7 +5,16 @@
         "levels": [{
             "id": 0,
             "time": 250,
-            "score": 25,
+            "score": 500,
+            "created": "2019-06-24 10:53:24", 
+            "updated": "2019-06-24 10:53:24", 
+            "finished": true,
+            "FinishedQuestions":[0,1,2,3]
+          },
+            {
+            "id": 1,
+            "time": 50,
+            "score": 650,
             "created": "2019-06-24 10:53:24", 
             "updated": "2019-06-24 10:53:24", 
             "finished": true,
