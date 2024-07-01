@@ -6,6 +6,7 @@
             "currentLevel": 0,
             "levels": [{
                 "id": 0,
+                "levelName": "The Digital Core",
                 "time": 250,
                 "score": 500,
                 "created": "2019-06-24 10:53:24", 
@@ -15,17 +16,9 @@
             },
             {
                 "id": 1,
+                "levelName": "Ethos Tower",
                 "time": 50,
                 "score": 650,
-                "created": "2019-06-24 10:53:24", 
-                "updated": "2019-06-24 10:53:24", 
-                "finished": true,
-                "FinishedQuestions":[0,1,2,3]
-            },
-            {
-                "id": 2,
-                "time": 20,
-                "score": 850,
                 "created": "2019-06-24 10:53:24", 
                 "updated": "2019-06-24 10:53:24", 
                 "finished": true,
