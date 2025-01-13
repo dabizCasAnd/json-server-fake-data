@@ -1,6 +1,5 @@
 {
     "userProgress": {
-        {
     "status": "ok",
     "data": {
         "material_name": "MDT-game",
@@ -53,7 +52,6 @@
             }
         ]
     }
-}
     },
     "scores":{
         "status": "ok",
