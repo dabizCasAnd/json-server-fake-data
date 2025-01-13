@@ -1,30 +1,59 @@
 {
     "userProgress": {
-        "status": "ok",
-        "data": {    
-            "nickname": "dabiz",
-            "currentLevel": 0,
-            "levels": [{
-                "id": 0,
-                "levelName": "The Digital Core",
-                "time": 250,
-                "score": 500,
-                "created": "2019-06-24 10:53:24", 
-                "updated": "2019-06-24 10:53:24", 
-                "finished": true,
-                "FinishedQuestions":[10,1,2,3,4,5,6,7,8,9]
-            },
+        {
+    "status": "ok",
+    "data": {
+        "material_name": "MDT-game",
+        "nickname": "dabiz",
+        "currentLevel": 0,
+        "levels": [
             {
                 "id": 1,
                 "levelName": "Ethos Tower",
-                "time": 50,
-                "score": 650,
-                "created": "2019-06-24 10:53:24", 
-                "updated": "2019-06-24 10:53:24", 
+                "time": 191,
+                "score": 800,
+                "created": "13\/01\/2025 11:50:02",
+                "updated": "13\/01\/2025 12:32:11",
                 "finished": true,
-                "FinishedQuestions":[7,1,2,3]
-            }]
-        }
+                "finishState": "Correct",
+                "FinishedQuestions": [
+                    29,
+                    30,
+                    54,
+                    13,
+                    43,
+                    2,
+                    55,
+                    41,
+                    22,
+                    35
+                ]
+            },
+            {
+                "id": 0,
+                "levelName": "Logos Lab",
+                "time": 191,
+                "score": 900,
+                "created": "13\/01\/2025 11:50:40",
+                "updated": "13\/01\/2025 12:39:49",
+                "finished": true,
+                "finishState": "Correct",
+                "FinishedQuestions": [
+                    45,
+                    53,
+                    11,
+                    4,
+                    12,
+                    21,
+                    3,
+                    75,
+                    5,
+                    40
+                ]
+            }
+        ]
+    }
+}
     },
     "scores":{
         "status": "ok",
