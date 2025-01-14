@@ -3,7 +3,7 @@
     "status": "ok",
     "data": {
         "material_name": "MDT-game",
-        "nickname": "dabiz",
+        "nickname": null,
         "currentLevel": 0,
         "levels": [
             {
